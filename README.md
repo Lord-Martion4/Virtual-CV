@@ -1,4 +1,4 @@
-# Software Engineering Portfolio Website
+# Information Technology Portfolio Website
 
 ## Overview
 
