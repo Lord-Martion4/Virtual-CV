@@ -8,20 +8,15 @@ The portfolio was designed to provide potential employers and recruiters with a 
 
 ---
 
-## Features
+## Elements
 
-- Responsive design for desktop, tablet, and mobile devices
-- Professional landing page introducing my background and career aspirations
-- About Me section
-- Technical Skills section
-- Education and Qualifications
-- Professional Experience
-- Academic Projects with GitHub links
-- Certifications
-- Contact section with professional links
-- Downloadable CV
-- Mobile navigation menu using JavaScript
-- Clean, modern, and accessible user interface
+- **Home** – Professional introduction and navigation.
+- **About** – Personal profile, education, and career objectives.
+- **Skills** – Programming languages, web technologies, databases, and development tools.
+- **Projects** – Showcase of academic and personal software development projects.
+- **Experience** – Work experience and university involvement.
+- **Certifications** – Professional certifications and technical achievements.
+- **Contact** – Email address, LinkedIn profile, GitHub profile, and downloadable CV.
 
 ---
 
